@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 21f4ed4af1a92b442afb14e00d3dab67
+timeCreated: 1510170814
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CF Letterpress Type PERSONAL
+  fontNames:
+  - CF Letterpress Type PERSONAL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

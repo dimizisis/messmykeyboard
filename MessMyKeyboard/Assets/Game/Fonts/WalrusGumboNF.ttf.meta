@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8380e318fee96194c833ec136f463d86
+timeCreated: 1510094534
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Walrus Gumbo NF
+  fontNames:
+  - Walrus Gumbo NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

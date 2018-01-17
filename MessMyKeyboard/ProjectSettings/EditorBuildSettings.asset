@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/Menu.unity
+    guid: a4e3bdcf45f3725488b691e1e20706a1
+  - enabled: 1
+    path: Assets/Game/Scenes/Credits.unity
+    guid: 0fe2184ad0eb8424a976313fd2ce881f
+  - enabled: 1
+    path: Assets/Game/Scenes/Start.unity
+    guid: 2b363acdd1599d040869c3cb4030ef72
+  - enabled: 1
+    path: Assets/Game/Scenes/Info.unity
+    guid: 65903e9c35dab3d4790d02d43cf0259f
+  - enabled: 1
+    path: Assets/Game/Scenes/SentenceGame2.unity
+    guid: caabca0dd82db324e885270ffc78a11c
+  - enabled: 1
+    path: Assets/Game/Scenes/WordGame.unity
+    guid: 3f51b04765347b54d9c339c89e4e32f0
+  - enabled: 1
+    path: Assets/Game/Scenes/SentenceGame.unity
+    guid: 79a675e2d39894743b399639bf418693
+  - enabled: 1
+    path: Assets/Game/Scenes/ImageGame.unity
+    guid: b681b17e4265fa540b84ff8e72a49096
+  - enabled: 1
+    path: Assets/Game/Scenes/TabooGame.unity
+    guid: 54384a0fc19d7c846bb14fb206d5eb1e
